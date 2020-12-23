@@ -3,10 +3,10 @@
     <channel>
         <title>RaynKids App - Appcast</title>
         <item>
-            <title>Version 2.0.10</title>
+            <title>Version 1.0.11</title>
             <description>desc</description>
             <pubDate>Wed, 23 Dec 2020 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.saswat.flashcards" sparkle:version="2.0.10" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.saswat.flashcards" sparkle:version="1.0.11" sparkle:os="android" />
         </item>
     </channel>
 </rss>
